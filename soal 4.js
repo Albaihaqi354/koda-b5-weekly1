@@ -52,4 +52,3 @@ console.log("5. toString()");
 console.log(angka);
 console.log(stringAngka);
 console.log("=========================");
-
